@@ -1,4 +1,4 @@
-<div align="center"> <img width="600" height="240" src="assets/vg-banner.png"> </div>
+<div align="center"> <img width="600" height="240" src="../assets/vg-banner.png"> </div>
 
 ### <h3 align="center">Welcome to Vanguard Framework soldier!</h3>
 *<p align="center">Improve your MilSim server experience</p>*
